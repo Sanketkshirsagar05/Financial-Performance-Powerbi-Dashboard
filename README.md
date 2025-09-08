@@ -8,6 +8,4 @@
 
 ## 🎥 Watch the Dashboard in Action  
 
-![Finance Dashboard](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Video/Finance%20Dashboard.mp4)
-
----
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Video/Finance%20Dashboard.mp4))
