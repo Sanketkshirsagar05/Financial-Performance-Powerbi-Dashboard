@@ -6,13 +6,6 @@
 
 ---
 
-##  Watch the Dashboard in Action  
-[![Financial Dashboard Preview](https://img.youtube.com/vi/INSERT_VIDEO_ID_HERE/0.jpg)](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Video/Finance%20Dashboard.mp4)
-
-*(Click the image above to view a walkthrough video of the dashboard.)*
-
----
-
 ## 🔑 Project Overview  
 This is a **Financial Performance Dashboard** built using Power BI, intended for intuitive finance reporting and performance tracking.  
 
@@ -21,13 +14,6 @@ This is a **Financial Performance Dashboard** built using Power BI, intended for
 - Built-in **variance analysis** (Actual vs. Budget, Year-over-Year)  
 - Interactive features including **custom tooltips** and **light/dark mode**  
 - Clean design and **multi-page navigation** for easy analysis  
-
----
-
-## 📂 What’s Included  
-- **Power BI file (.pbix)**  
-- Data tables: Transactions, Budgets, Accounts  
-- DAX measure implementations  
 
 ---
 
