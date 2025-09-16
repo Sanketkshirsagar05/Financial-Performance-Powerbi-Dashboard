@@ -20,3 +20,23 @@ This is a **Financial Performance Dashboard** built using Power BI, intended for
 ## 🔗 Try It Yourself  
 View the live dashboard here:  
 👉 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNDI0ODVlYzEtZjBlMC00YzVlLWE3ODAtNzlmY2ExY2U4N2I1IiwidCI6IjIxZGEzZTE2LTU2NjgtNDNhYy04MThmLTBjYzU4YzVlZmFmNCJ9&pageName=adaba28850ce32a48f73)  
+
+
+## 🌞 Light Mode Dashboard Screenshots  
+
+### 🏠 Home  
+![Home](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/1%20Home.png)  
+
+### 📈 Finance Overview  
+![Finance Overview](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/2%20Finance%20Overview.png)  
+
+### 📊 Last Year Overview  
+![LY Overview](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/3%20LY%20Overview.png)  
+
+### 📉 Actual vs Budget  
+![Actual vs Budget](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/4%20Actual%20vs%20Budget.png)  
+
+### 🧾 Income Statement  
+![Income Statement](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/5%20Income%20Statement.png)  
+
+---
