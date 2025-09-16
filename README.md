@@ -25,18 +25,18 @@ View the live dashboard here:
 ## 🌞 Light Mode Dashboard Screenshots  
 
 ### 🏠 Home  
-![Home](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/1%20Home.png)  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/1%20Home.png" width="600"/>  
 
 ### 📈 Finance Overview  
-![Finance Overview](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/2%20Finance%20Overview.png)  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/2%20Finance%20Overview.png" width="600"/>  
 
 ### 📊 Last Year Overview  
-![LY Overview](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/3%20LY%20Overview.png)  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/3%20LY%20Overview.png" width="600"/>  
 
 ### 📉 Actual vs Budget  
-![Actual vs Budget](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/4%20Actual%20vs%20Budget.png)  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/4%20Actual%20vs%20Budget.png" width="600"/>  
 
 ### 🧾 Income Statement  
-![Income Statement](https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/5%20Income%20Statement.png)  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/5%20Income%20Statement.png" width="600"/>  
 
 ---
