@@ -40,3 +40,22 @@ View the live dashboard here:
 <img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Light%20Mode/5%20Income%20Statement.png" width="600"/>  
 
 ---
+
+## 🌙 Dark Mode Dashboard Screenshots  
+
+### 🏠 Home  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Dark%20Mode/1%20Home.png" width="600"/>  
+
+### 📈 Finance Overview  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Dark%20Mode/2%20Finance%20Overview.png" width="600"/>  
+
+### 📊 Last Year Overview  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Dark%20Mode/3%20LY%20Overview.png" width="600"/>  
+
+### 📉 Actual vs Budget  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Dark%20Mode/4%20Actual%20vs%20Budget.png" width="600"/>  
+
+### 🧾 Income Statement  
+<img src="https://github.com/Sanketkshirsagar05/Financial-Performance-Powerbi-Dashboard/blob/main/Screenshot/Dark%20Mode/5%20Income%20Statement.png" width="600"/>  
+
+---
